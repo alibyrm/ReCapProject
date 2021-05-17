@@ -33,6 +33,6 @@ namespace Business.Concrete
         {
             throw new NotImplementedException();
         }
-        //yeni kodlar buraya eklenecek
+        //authorization kodları
     }
 }
